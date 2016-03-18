@@ -23,3 +23,11 @@ img {
 	width: 50%;
 
 }
+
+a, a:visited {
+	color: #ECF0F1;
+}
+
+a:hover {
+	color:#2980b9;
+}
