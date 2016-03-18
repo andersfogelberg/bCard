@@ -1,6 +1,10 @@
 body {
 	background-color: #ecf0f1;
 	font-family: "Source Sans Pro", sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
 }
 
 #bCard {
@@ -8,6 +12,7 @@ body {
 	padding: 20px;
 	background-color: white;
 	box-shadow: 5px 5px rgba(0,0,0,0.1);
+	text-align: center;
 }
 
 .quote {
